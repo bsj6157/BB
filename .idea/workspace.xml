@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd3690d2-a2c7-40bd-bfe6-6046729d8993" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingIT.html" beforeDir="false" afterPath="$PROJECT_DIR$/SingIT.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <workItem from="1694220130982" duration="1191000" />
       <workItem from="1694362600925" duration="608000" />
       <workItem from="1694724096982" duration="785000" />
-      <workItem from="1694827041586" duration="151000" />
+      <workItem from="1694827041586" duration="515000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1694044302041</created>
