@@ -126,3 +126,13 @@ blockquote {
         border: 10px solid #f3f2ed;
 
     }
+    table {
+        padding: 50px;
+    }
+
+    tr {
+        padding: 50px;
+    }
+    td {
+        padding: 3px;
+    }
