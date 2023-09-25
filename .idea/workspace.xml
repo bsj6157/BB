@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd3690d2-a2c7-40bd-bfe6-6046729d8993" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/BITBServices.html" beforeDir="false" afterPath="$PROJECT_DIR$/BITBServices.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITBstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/BITBstyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <workItem from="1694827041586" duration="635000" />
       <workItem from="1694828074631" duration="360000" />
       <workItem from="1695352299476" duration="1131000" />
-      <workItem from="1695602979444" duration="1072000" />
+      <workItem from="1695602979444" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1694044302041</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695603990805</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1695604079727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695604079727</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

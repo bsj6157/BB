@@ -123,6 +123,7 @@ blockquote {
 
     }
     img {
+        text-align: center;
         border: 10px solid #f3f2ed;
 
     }
