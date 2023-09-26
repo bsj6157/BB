@@ -1,5 +1,5 @@
 * {
-    background-color: rgba(65, 166, 78, 0.8);
+    background-color: #ec7c22;
 }
 .bitbBoxSong{
   width:33pc;
@@ -7,6 +7,7 @@
     padding:20px 20px 20px 20px;
     border: 5px solid red;
     border-width: medium;
+    border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -32,6 +33,7 @@
 .bitbContact {
     width:33pc;
     box-sizing: content-box;
+    background-color: rgba(13, 21, 82, 0.93);
     padding:20px 20px 20px 20px;
     border: 5px solid red;
     border-width: medium;
@@ -45,7 +47,17 @@ div {
     margin-right: auto;
     text-align: center;
 }
-
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 footer {
     font-size: 2rem;
     align-content: left;
@@ -105,7 +117,13 @@ blockquote {
         font-size: 26px;
         text-align: center;
     }
+    pre {
+        text-align: center;
 
+
+
+
+    }
     ul {
         text-align: center;
         margin-left: auto;
@@ -123,6 +141,7 @@ blockquote {
 
     }
     img {
+
         border: 10px solid #f3f2ed;
 
     }
