@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd3690d2-a2c7-40bd-bfe6-6046729d8993" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITBstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/BITBstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IDidITmyWay.html" beforeDir="false" afterPath="$PROJECT_DIR$/IDidITmyWay.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <workItem from="1696988796006" duration="920000" />
       <workItem from="1696991478030" duration="916000" />
       <workItem from="1697587612395" duration="2566000" />
-      <workItem from="1698625679517" duration="880000" />
+      <workItem from="1698625679517" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1694044302041</created>
@@ -228,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698626404024</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1698626581494</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1698626581494</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1698626646831</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698626646831</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
