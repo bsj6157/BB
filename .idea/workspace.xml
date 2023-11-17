@@ -7,6 +7,7 @@
     <list default="true" id="bd3690d2-a2c7-40bd-bfe6-6046729d8993" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BITBServices.html" beforeDir="false" afterPath="$PROJECT_DIR$/BITBServices.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITBstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/BITBstyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +61,8 @@
       <workItem from="1697587612395" duration="2566000" />
       <workItem from="1698625679517" duration="1272000" />
       <workItem from="1700172639714" duration="4163000" />
-      <workItem from="1700193184841" duration="79000" />
-    </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
-      <created>1695604079727</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1695604079727</updated>
+      <workItem from="1700193184841" duration="534000" />
+      <workItem from="1700441091715" duration="77000" />
     </task>
     <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
       <created>1695604150205</created>
@@ -405,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700192563327</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1700193290775</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1700193290776</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
